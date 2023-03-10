@@ -138,6 +138,7 @@ body{
 
 .footer__content{
     color: #fff;
+    transition: 0.4s;
     text-decoration: none;
 }
 
